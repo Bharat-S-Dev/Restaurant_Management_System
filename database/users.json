@@ -1,0 +1,30 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin"
+    },
+    "staff": {
+        "password": "staff123",
+        "role": "staff"
+    },
+    "madhav": {
+        "password": "madhav123",
+        "role": "admin"
+    },
+    "bharat": {
+        "password": "bharat123",
+        "role": "staff"
+    },
+    "keshav": {
+        "password": "keshav123",
+        "role": "staff"
+    },
+    "alok": {
+        "password": "alok123",
+        "role": "staff"
+    },
+    "abhinav": {
+        "password": "abhinav123",
+        "role": "staff"
+    }
+}

@@ -1,0 +1,291 @@
+[
+  {
+    "item_id": "B1",
+    "name": "Pancakes with Maple Syrup",
+    "category": "Breakfast",
+    "options": {
+      "half": 80.0,
+      "full": 120.0
+    }
+  },
+  {
+    "item_id": "B2",
+    "name": "Scrambled Eggs with Toast",
+    "category": "Breakfast",
+    "options": {
+      "full": 100.0
+    }
+  },
+  {
+    "item_id": "B3",
+    "name": "Fruit Salad with Yogurt",
+    "category": "Breakfast",
+    "options": {
+      "half": 90.0,
+      "full": 140.0
+    }
+  },
+  {
+    "item_id": "B4",
+    "name": "English Breakfast",
+    "category": "Breakfast",
+    "options": {
+      "full": 180.0
+    }
+  },
+  {
+    "item_id": "B5",
+    "name": "Oatmeal with Berries",
+    "category": "Breakfast",
+    "options": {
+      "full": 95.0
+    }
+  },
+  {
+    "item_id": "L1",
+    "name": "Chicken Biryani",
+    "category": "Lunch",
+    "options": {
+      "half": 180.0,
+      "full": 300.0
+    }
+  },
+  {
+    "item_id": "L2",
+    "name": "Vegetable Thali",
+    "category": "Lunch",
+    "options": {
+      "full": 200.0
+    }
+  },
+  {
+    "item_id": "L3",
+    "name": "Paneer Butter Masala with Naan",
+    "category": "Lunch",
+    "options": {
+      "full": 220.0
+    }
+  },
+  {
+    "item_id": "L4",
+    "name": "Fish Curry with Rice",
+    "category": "Lunch",
+    "options": {
+      "full": 250.0
+    }
+  },
+  {
+    "item_id": "L5",
+    "name": "Chicken Noodles",
+    "category": "Lunch",
+    "options": {
+      "half": 150.0,
+      "full": 250.0
+    }
+  },
+  {
+    "item_id": "L6",
+    "name": "Aloo Gobi",
+    "category": "Lunch",
+    "options": {
+      "half": 160.0,
+      "full": 300.0
+    }
+  },
+  {
+    "item_id": "L7",
+    "name": "Palak Paneer",
+    "category": "Lunch",
+    "options": {
+      "half": 180.0,
+      "full": 320.0
+    }
+  },
+  {
+    "item_id": "D1",
+    "name": "Grilled Salmon with Asparagus",
+    "category": "Dinner",
+    "options": {
+      "full": 450.0
+    }
+  },
+  {
+    "item_id": "D2",
+    "name": "Pasta Alfredo with Chicken",
+    "category": "Dinner",
+    "options": {
+      "half": 220.0,
+      "full": 380.0
+    }
+  },
+  {
+    "item_id": "D3",
+    "name": "Lamb Chops with Rosemary Potatoes",
+    "category": "Dinner",
+    "options": {
+      "full": 550.0
+    }
+  },
+  {
+    "item_id": "D4",
+    "name": "Vegetable Lasagna",
+    "category": "Dinner",
+    "options": {
+      "full": 300.0
+    }
+  },
+  {
+    "item_id": "D5",
+    "name": "Mushroom Risotto",
+    "category": "Dinner",
+    "options": {
+      "full": 320.0
+    }
+  },
+  {
+    "item_id": "D6",
+    "name": "Fish Fry",
+    "category": "Dinner",
+    "options": {
+      "full": 320.0
+    }
+  },
+  {
+    "item_id": "D7",
+    "name": "Kadai Chicken",
+    "category": "Dinner",
+    "options": {
+      "full": 390.0
+    }
+  },
+  {
+    "item_id": "S1",
+    "name": "French Fries",
+    "category": "Starter",
+    "options": {
+      "half": 50.0,
+      "full": 80.0
+    }
+  },
+  {
+    "item_id": "S2",
+    "name": "Spring Rolls (Veg/Non-veg)",
+    "category": "Starter",
+    "options": {
+      "full": 150.0
+    }
+  },
+  {
+    "item_id": "S3",
+    "name": "Garlic Bread with Cheese",
+    "category": "Starter",
+    "options": {
+      "half": 70.0,
+      "full": 110.0
+    }
+  },
+  {
+    "item_id": "S4",
+    "name": "Tomato Soup",
+    "category": "Starter",
+    "options": {
+      "full": 90.0
+    }
+  },
+  {
+    "item_id": "S5",
+    "name": "Chicken Seekh Kebab",
+    "category": "Starter",
+    "options": {
+      "full": 200.0
+    }
+  },
+  {
+    "item_id": "N1",
+    "name": "Veg Burger with Chips",
+    "category": "Snacks",
+    "options": {
+      "full": 120.0
+    }
+  },
+  {
+    "item_id": "N2",
+    "name": "Chicken Sandwich",
+    "category": "Snacks",
+    "options": {
+      "full": 130.0
+    }
+  },
+  {
+    "item_id": "N3",
+    "name": "Samosa (2 pcs)",
+    "category": "Snacks",
+    "options": {
+      "full": 60.0
+    }
+  },
+  {
+    "item_id": "N4",
+    "name": "Coffee/Tea",
+    "category": "Snacks",
+    "options": {
+      "full": 50.0
+    }
+  },
+  {
+    "item_id": "N5",
+    "name": "Milkshake (Chocolate/Vanilla)",
+    "category": "Snacks",
+    "options": {
+      "full": 100.0
+    }
+  },
+  {
+    "item_id": "W1",
+    "name": "Water(free)",
+    "category": "Others",
+    "options": {
+      "full": 0.0
+    }
+  },
+  {
+    "item_id": "W2",
+    "name": "Mineral water bottle",
+    "category": "Others",
+    "options": {
+      "full": 30.0
+    }
+  },
+  {
+    "item_id": "W3",
+    "name": "Green salad",
+    "category": "Others",
+    "options": {
+      "full": 120.0
+    }
+  },
+  {
+    "item_id": "W5",
+    "name": "Sweet lassi",
+    "category": "Others",
+    "options": {
+      "full": 70.0
+    }
+  },
+  {
+    "item_id": "W6",
+    "name": "Chach",
+    "category": "Others",
+    "options": {
+      "full": 15.0
+    }
+  },
+  {
+    "item_id": "N6",
+    "name": "Banana milkshake",
+    "category": "Snacks",
+    "options": {
+      "full": 90.0
+    }
+  }
+]

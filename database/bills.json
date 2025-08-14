@@ -1,0 +1,176 @@
+[
+    {
+        "bill_id": "BILL838A152C",
+        "customer": "satyam",
+        "table_no": "10",
+        "datetime": "2025-08-10 16:23:28",
+        "discount_percent": 5,
+        "items": [
+            {
+                "item_id": "S4",
+                "name": "Tomato Soup",
+                "portion": "full",
+                "unit_price": 90.0,
+                "quantity": 8,
+                "total_price": 720.0
+            },
+            {
+                "item_id": "D4",
+                "name": "Vegetable Lasagna",
+                "portion": "full",
+                "unit_price": 300.0,
+                "quantity": 5,
+                "total_price": 1500.0
+            },
+            {
+                "item_id": "W2",
+                "name": "Mineral water bottle",
+                "portion": "full",
+                "unit_price": 30.0,
+                "quantity": 8,
+                "total_price": 240.0
+            }
+        ],
+        "totals": {
+            "subtotal": 2460.0,
+            "discount": 123.0,
+            "discounted_subtotal": 2337.0,
+            "tax": 116.85000000000001,
+            "service_charge": 233.70000000000002,
+            "grand_total": 2687.5499999999997
+        }
+    },
+    {
+        "bill_id": "BILLDE1B0335",
+        "customer": "kailash",
+        "table_no": "11",
+        "datetime": "2025-08-12 14:59:41",
+        "discount_percent": 5,
+        "items": [
+            {
+                "item_id": "W2",
+                "name": "Mineral water bottle",
+                "portion": "full",
+                "unit_price": 30.0,
+                "quantity": 8,
+                "total_price": 150.0,
+                "item_total": 240.0
+            },
+            {
+                "item_id": "S1",
+                "name": "French Fries",
+                "portion": "half",
+                "unit_price": 50.0,
+                "quantity": 5,
+                "total_price": 250.0
+            },
+            {
+                "item_id": "S3",
+                "name": "Garlic Bread with Cheese",
+                "portion": "full",
+                "unit_price": 110.0,
+                "quantity": 7,
+                "total_price": 770.0
+            }
+        ],
+        "totals": {
+            "subtotal": 1170.0,
+            "discount": 58.5,
+            "discounted_subtotal": 1111.5,
+            "tax": 55.575,
+            "service_charge": 111.15,
+            "grand_total": 1278.2250000000001
+        }
+    },
+    {
+        "bill_id": "BILL82F3B058",
+        "customer": "deepak",
+        "table_no": "4",
+        "datetime": "2025-08-12 16:14:54",
+        "discount_percent": 0,
+        "items": [
+            {
+                "item_id": "W5",
+                "name": "Sweet lassi",
+                "portion": "full",
+                "unit_price": 70.0,
+                "quantity": 5,
+                "total_price": 350.0
+            },
+            {
+                "item_id": "S3",
+                "name": "Garlic Bread with Cheese",
+                "portion": "full",
+                "unit_price": 110.0,
+                "quantity": 5,
+                "total_price": 550.0
+            }
+        ],
+        "totals": {
+            "subtotal": 900.0,
+            "discount": 0.0,
+            "discounted_subtotal": 900.0,
+            "tax": 45.0,
+            "service_charge": 90.0,
+            "grand_total": 1035.0
+        }
+    },
+    {
+        "bill_id": "BILLF9AE7D9E",
+        "customer": "madhav",
+        "table_no": "5",
+        "datetime": "2025-08-13 16:05:11",
+        "discount_percent": 0,
+        "items": [
+            {
+                "item_id": "S1",
+                "name": "French Fries",
+                "portion": "half",
+                "unit_price": 50.0,
+                "quantity": 100000,
+                "total_price": 5000000.0
+            }
+        ],
+        "totals": {
+            "subtotal": 5000000.0,
+            "discount": 0.0,
+            "discounted_subtotal": 5000000.0,
+            "tax": 250000.0,
+            "service_charge": 500000.0,
+            "grand_total": 5750000.0
+        }
+    },
+    {
+        "bill_id": "BILL630AAC7A",
+        "customer": "mahesh",
+        "table_no": "4",
+        "datetime": "2025-08-14 00:31:29",
+        "discount_percent": 0,
+        "items": [
+            {
+                "item_id": "S3",
+                "name": "Garlic Bread with Cheese",
+                "portion": "full",
+                "unit_price": 110.0,
+                "quantity": 2,
+                "total_price": 220.0
+            },
+            {
+                "item_id": "W2",
+                "name": "Mineral water bottle",
+                "portion": "full",
+                "unit_price": 30.0,
+                "quantity": 2,
+                "total_price": 60.0
+            }
+        ],
+        "totals": {
+            "subtotal": 280.0,
+            "discount": 0.0,
+            "discounted_subtotal": 280.0,
+            "tax": 14.0,
+            "service_charge": 28.0,
+            "grand_total": 322.0
+        }
+    }
+]

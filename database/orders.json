@@ -1,0 +1,24 @@
+{
+    "w2": {
+        "customer": "alok",
+        "items": [
+            {
+                "item_id": "W2",
+                "name": "Mineral water bottle",
+                "portion": "full",
+                "unit_price": 30.0,
+                "quantity": 2,
+                "total_price": 60.0
+            },
+            {
+                "item_id": "S2",
+                "name": "Spring Rolls (Veg/Non-veg)",
+                "portion": "full",
+                "unit_price": 150.0,
+                "quantity": 2,
+                "total_price": 300.0
+            }
+        ],
+        "total": 360.0
+    }
+}
