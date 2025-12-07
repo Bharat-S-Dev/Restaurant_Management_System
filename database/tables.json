@@ -11,11 +11,11 @@
     {
         "table_no": 2,
         "capacity": 2,
-        "status": "Reserved",
-        "reservation_date": "2025-08-14",
-        "reservation_start_time": "7:30pm",
-        "reservation_end_time": "9:30pm",
-        "reserved_for": 2
+        "status": "Available",
+        "reservation_date": null,
+        "reservation_start_time": null,
+        "reservation_end_time": null,
+        "reserved_for": null
     },
     {
         "table_no": 3,

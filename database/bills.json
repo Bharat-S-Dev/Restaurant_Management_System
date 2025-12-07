@@ -172,5 +172,38 @@
             "service_charge": 28.0,
             "grand_total": 322.0
         }
+    },
+    {
+        "bill_id": "BILL10DA4C01",
+        "customer": "manoj",
+        "table_no": "5",
+        "datetime": "2025-12-07 12:29:48",
+        "discount_percent": 5,
+        "items": [
+            {
+                "item_id": "B1",
+                "name": "Pancakes with Maple Syrup",
+                "portion": "full",
+                "unit_price": 120.0,
+                "quantity": 4,
+                "total_price": 480.0
+            },
+            {
+                "item_id": "D1",
+                "name": "Grilled Salmon with Asparagus",
+                "portion": "full",
+                "unit_price": 450.0,
+                "quantity": 4,
+                "total_price": 1800.0
+            }
+        ],
+        "totals": {
+            "subtotal": 2280.0,
+            "discount": 114.0,
+            "discounted_subtotal": 2166.0,
+            "tax": 108.30000000000001,
+            "service_charge": 216.60000000000002,
+            "grand_total": 2490.9
+        }
     }
 ]

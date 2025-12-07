@@ -26,5 +26,9 @@
     "abhinav": {
         "password": "abhinav123",
         "role": "staff"
+    },
+    "manoj": {
+        "password": "manoj123",
+        "role": "staff"
     }
 }
